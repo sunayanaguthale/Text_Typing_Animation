@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+    background: #2b323c;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.container h1{
+    font-size: 70px;
+}
+
+span{
+    color: #f0c60c;
+}
